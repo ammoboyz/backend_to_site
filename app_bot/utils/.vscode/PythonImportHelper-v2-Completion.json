@@ -1,0 +1,784 @@
+[
+    {
+        "label": "AAIO",
+        "importPath": "aaio",
+        "description": "aaio",
+        "isExtraImport": true,
+        "detail": "aaio",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "app.utils.config",
+        "description": "app.utils.config",
+        "isExtraImport": true,
+        "detail": "app.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "io,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io.",
+        "description": "io.",
+        "detail": "io.",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "suppress",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "suppress",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "suppress",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "suppress",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Dispatcher",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "FSInputFile",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardMarkup",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardButton",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_sessionmaker",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "SEND_EXCEPTIONS",
+        "importPath": "settings",
+        "description": "settings",
+        "isExtraImport": true,
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "BAN_WORDS",
+        "importPath": "settings",
+        "description": "settings",
+        "isExtraImport": true,
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "SEND_EXCEPTIONS",
+        "importPath": "settings",
+        "description": "settings",
+        "isExtraImport": true,
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "SEND_EXCEPTIONS",
+        "importPath": "settings",
+        "description": "settings",
+        "isExtraImport": true,
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Advertising",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sponsors",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Shows",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "ViewsHistory",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Shows",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "ViewsHistory",
+        "importPath": "app.database.models",
+        "description": "app.database.models",
+        "isExtraImport": true,
+        "detail": "app.database.models",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackData",
+        "importPath": "aiogram.filters.callback_data",
+        "description": "aiogram.filters.callback_data",
+        "isExtraImport": true,
+        "detail": "aiogram.filters.callback_data",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "fuzz",
+        "importPath": "thefuzz",
+        "description": "thefuzz",
+        "isExtraImport": true,
+        "detail": "thefuzz",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "StorageKey",
+        "importPath": "aiogram.fsm.storage.base",
+        "description": "aiogram.fsm.storage.base",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.storage.base",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "app.templates.texts",
+        "description": "app.templates.texts",
+        "isExtraImport": true,
+        "detail": "app.templates.texts",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "app.templates.texts",
+        "description": "app.templates.texts",
+        "isExtraImport": true,
+        "detail": "app.templates.texts",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "app.templates.keyboards",
+        "description": "app.templates.keyboards",
+        "isExtraImport": true,
+        "detail": "app.templates.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramBadRequest",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramForbiddenError",
+        "importPath": "aiogram.exceptions",
+        "description": "aiogram.exceptions",
+        "isExtraImport": true,
+        "detail": "aiogram.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "StatisticsPlotter",
+        "kind": 6,
+        "importPath": "admin_func",
+        "description": "admin_func",
+        "peekOfCode": "class StatisticsPlotter:\n    \"\"\"A class to generate and plot statistics based on registration, blockage.\n    Args:\n        interval (int): The number of days for the interval.\n        date_reg (list): List of dates for registrations.\n        date_dead (list): List of dates for blockages.\n        label_reg (str, optional): Label for registration data. Defaults to \"Registration\".\n        label_dead (str, optional): Label for blockage data. Defaults to \"Blockage\".\n    Methods:\n        generate_data: Generates data based on the provided intervals and dates.",
+        "detail": "admin_func",
+        "documentation": {}
+    },
+    {
+        "label": "StatisticString",
+        "kind": 6,
+        "importPath": "admin_func",
+        "description": "admin_func",
+        "peekOfCode": "class StatisticString:\n    def __init__(\n        self,\n        users_list: list[Users],\n        bot_username: Optional[str]\n        ):\n        today = datetime.date.today()\n        self.count_dead = 0\n        self.users_list = users_list\n        self.bot_username = bot_username",
+        "detail": "admin_func",
+        "documentation": {}
+    },
+    {
+        "label": "sponsor_get_info",
+        "kind": 2,
+        "importPath": "admin_func",
+        "description": "admin_func",
+        "peekOfCode": "def sponsor_get_info(sponsor: Sponsors) -> str:\n    return f'''\n<b>💸 Спонсор <code>{sponsor.first_name}</code>:</b>\n<b>🆔 ID:</b> <code>{sponsor.id}</code>\n<b>🔗 Ссылка:</b> <code>{sponsor.url}</code>\n<b>🔎 Это:</b> <code>{\"бот 🤖\" if sponsor.is_bot else \"канал 👥\"}</code>\n{f\"<b>👨‍💻 Токен:</b> <code>{sponsor.token}</code>\" if sponsor.token else \"\"}\n'''\nasync def show_get_info(session: AsyncSession, sponsor_id: int) -> tuple[str, io.BytesIO]:\n    show = await session.scalar(",
+        "detail": "admin_func",
+        "documentation": {}
+    },
+    {
+        "label": "id_to_txt",
+        "kind": 2,
+        "importPath": "admin_func",
+        "description": "admin_func",
+        "peekOfCode": "def id_to_txt(list_id: list[int | str]) -> FSInputFile:\n    date_now = datetime.datetime.now()\n    date_now = date_now.strftime(\"%d-%m-%Y_%H-%M-%S\")\n    with open(f\"app/database/{date_now}.txt\", \"w\", encoding=\"utf-8\") as file:\n        for user_id in list_id:\n            file.write(str(user_id) + \"\\n\")\n    input_file = FSInputFile(f\"app/database/{date_now}.txt\", f\"{date_now}.txt\")\n    os.remove(f\"app/database/{date_now}.txt\")\n    return input_file",
+        "detail": "admin_func",
+        "documentation": {}
+    },
+    {
+        "label": "PremiumCallbackFactory",
+        "kind": 6,
+        "importPath": "callback_data",
+        "description": "callback_data",
+        "peekOfCode": "class PremiumCallbackFactory(CallbackData, prefix=\"premium\"):\n    product: Optional[str] = None\n    method_name: Optional[str] = None\n    days: int = 0\n    callback_back: Optional[str] = None\n    user_id: Optional[int] = None\n    pay_code: Optional[str] = None\nclass InterestsCallbackFactory(CallbackData, prefix=\"profile\"):\n    action: str\n    interest: str",
+        "detail": "callback_data",
+        "documentation": {}
+    },
+    {
+        "label": "InterestsCallbackFactory",
+        "kind": 6,
+        "importPath": "callback_data",
+        "description": "callback_data",
+        "peekOfCode": "class InterestsCallbackFactory(CallbackData, prefix=\"profile\"):\n    action: str\n    interest: str\n    is_active: bool = False\na = PremiumCallbackFactory(\n    product=\"premium\",\n    method_name=\"premium\",\n    days=\"1\",\n    user_id=831472057\n)",
+        "detail": "callback_data",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "callback_data",
+        "description": "callback_data",
+        "peekOfCode": "a = PremiumCallbackFactory(\n    product=\"premium\",\n    method_name=\"premium\",\n    days=\"1\",\n    user_id=831472057\n)\nprint(a.pack())",
+        "detail": "callback_data",
+        "documentation": {}
+    },
+    {
+        "label": "DB",
+        "kind": 6,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "class DB(BaseSettings):\n    host: str\n    port: int\n    name: str\n    user: str\n    password: str\nclass Payments(BaseSettings):\n    merchant_id: str\n    secret_key: str\n    api_key: str",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "Payments",
+        "kind": 6,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "class Payments(BaseSettings):\n    merchant_id: str\n    secret_key: str\n    api_key: str\nclass Bot(BaseSettings):\n    token: str\n    timezone: str\n    bot_url: str\n    manager_link: str\n    admins: list[int]",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "kind": 6,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "class Bot(BaseSettings):\n    token: str\n    timezone: str\n    bot_url: str\n    manager_link: str\n    admins: list[int]\n    admin_chat: int\nclass Settings(BaseSettings):\n    bot: Bot\n    db: DB",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "class Settings(BaseSettings):\n    bot: Bot\n    db: DB\n    payments: Payments\n    class Config:\n        env_file = \".env\"\n        env_file_encoding = \"utf-8\"\n        env_nested_delimiter = \"__\"\ndef load_config(env_file=\".env\") -> Settings:\n    \"\"\"",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "kind": 2,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "def load_config(env_file=\".env\") -> Settings:\n    \"\"\"\n    Loads .env file into BaseSettings\n    :param str env_file: Env file, defaults to \".env\"\n    :return Settings: Settings object\n    \"\"\"\n    settings = Settings(_env_file=env_file)\n    return settings",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "generate_random_code",
+        "kind": 2,
+        "importPath": "func",
+        "description": "func",
+        "peekOfCode": "def generate_random_code() -> str:\n    letters = string.ascii_letters\n    return ''.join(random.choice(letters) for _ in range(10))\ndef clean(text: str) -> str:\n    result = re.sub(r'[^a-zA-Zа-яА-Я0-9]', '', text)\n    return result\ndef days_until(target_date: datetime):\n    time_difference = target_date - datetime.now()\n    if time_difference.total_seconds() < 0:\n        return \"нет\"",
+        "detail": "func",
+        "documentation": {}
+    },
+    {
+        "label": "clean",
+        "kind": 2,
+        "importPath": "func",
+        "description": "func",
+        "peekOfCode": "def clean(text: str) -> str:\n    result = re.sub(r'[^a-zA-Zа-яА-Я0-9]', '', text)\n    return result\ndef days_until(target_date: datetime):\n    time_difference = target_date - datetime.now()\n    if time_difference.total_seconds() < 0:\n        return \"нет\"\n    if time_difference.total_seconds() < 3600:\n        return f'{int(time_difference.total_seconds() / 60)} минут'\n    elif time_difference.days >= 365:",
+        "detail": "func",
+        "documentation": {}
+    },
+    {
+        "label": "days_until",
+        "kind": 2,
+        "importPath": "func",
+        "description": "func",
+        "peekOfCode": "def days_until(target_date: datetime):\n    time_difference = target_date - datetime.now()\n    if time_difference.total_seconds() < 0:\n        return \"нет\"\n    if time_difference.total_seconds() < 3600:\n        return f'{int(time_difference.total_seconds() / 60)} минут'\n    elif time_difference.days >= 365:\n        years = time_difference.days // 365\n        return f'{years} год'\n    elif time_difference.days < 1:",
+        "detail": "func",
+        "documentation": {}
+    },
+    {
+        "label": "kb_wrapper",
+        "kind": 2,
+        "importPath": "func",
+        "description": "func",
+        "peekOfCode": "def kb_wrapper(func):\n    annotations = func.__annotations__.get('builder')\n    if annotations is None:\n        return\n    async def async_decorated_function(*args, **kwargs):\n        builder = annotations()\n        start_time = time.time()\n        await func(builder, *args, **kwargs)\n        print(time.time() - start_time)\n        return builder.as_markup(resize_keyboard=True)",
+        "detail": "func",
+        "documentation": {}
+    },
+    {
+        "label": "check_ban_words",
+        "kind": 2,
+        "importPath": "func",
+        "description": "func",
+        "peekOfCode": "def check_ban_words(response: str) -> int:\n    data = response.lower().split(\" \")\n    words_count = 0\n    for ban_word in BAN_WORDS:\n        for word in data:\n            if fuzz.ratio(ban_word.lower(), word) > 80:\n                words_count += 1\n    return words_count\ndef time_format(seconds: int):\n    hours, remainder = divmod(int(seconds), 3600)",
+        "detail": "func",
+        "documentation": {}
+    },
+    {
+        "label": "time_format",
+        "kind": 2,
+        "importPath": "func",
+        "description": "func",
+        "peekOfCode": "def time_format(seconds: int):\n    hours, remainder = divmod(int(seconds), 3600)\n    minutes, seconds = divmod(remainder, 60)\n    if hours > 0:\n        return f\"{hours}ч и {minutes}м\"\n    elif minutes > 0:\n        return f\"{minutes}м и {seconds}с\"\n    else:\n        return f\"{seconds}с\"\nasync def top_text(session: AsyncSession, user_id: int, bot: Bot) -> str:",
+        "detail": "func",
+        "documentation": {}
+    },
+    {
+        "label": "GivePurchases",
+        "kind": 6,
+        "importPath": "give_purchases",
+        "description": "give_purchases",
+        "peekOfCode": "class GivePurchases:\n    PURCHASES_TEXT = {\n        \"nullable_rate\": \"Обнуление рейтинга\",\n        \"premium\": \"Покупка PREMIUM\",\n        \"roulette\": \"Прокрутка рулетки\"\n    }\n    def __init__(\n        self,\n        premium: PremiumCallbackFactory,\n        bot: Bot,",
+        "detail": "give_purchases",
+        "documentation": {}
+    },
+    {
+        "label": "AiogramMailling",
+        "kind": 6,
+        "importPath": "mailling",
+        "description": "mailling",
+        "peekOfCode": "class AiogramMailling:\n    def __init__(\n            self,\n            list_id: list[int | str],\n            bot: Bot,\n            call: CallbackQuery,\n            session: AsyncSession,\n            mailling_id: int,\n            mailling_markup: dict | list,\n            finally_markup: list,",
+        "detail": "mailling",
+        "documentation": {}
+    }
+]

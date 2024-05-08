@@ -1,0 +1,80 @@
+version: '2.21'
+
+services:
+  redis:
+    image: redis:latest
+    command: redis-server
+    restart: on-failure
+    ports:
+      - 6379:6379
+    networks:
+      - redis
+
+  bot:
+    build: .
+    command:  sh -c "python3 main_bot.py"
+    restart: always
+    volumes:
+      - .:/usr/app/src
+    networks:
+      - postgres
+      - redis
+
+  api:
+    build: .
+    command:  sh -c "python3 main_api.py"
+    restart: always
+    volumes:
+      - .:/usr/app/src
+    ports:
+      - 8080:8080
+    networks:
+      - postgres
+      - redis
+
+  db:
+    image: postgres:latest
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: default_db
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: user
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 4G
+    volumes:
+      - ./pg_data:/var/lib/postgresql/data/
+    ports:
+      - 5432:5432
+    networks:
+      - postgres
+
+  pgadmin:
+    container_name: pgadmin
+    image: dpage/pgadmin4
+    restart: unless-stopped
+    depends_on:
+      - db
+    environment:
+      PGADMIN_DEFAULT_EMAIL: noemail@noemail.com
+      PGADMIN_DEFAULT_PASSWORD: root
+    volumes:
+      - ./pgadmin_data:/var/lib/pgadmin/sessions
+    ports:
+      - "5050:80"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 1G
+    networks:
+      - postgres
+
+networks:
+  redis:
+    driver: bridge
+
+  postgres:
+    driver: bridge
